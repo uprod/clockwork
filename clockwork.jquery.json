@@ -6,7 +6,7 @@
         "clock",
         "words"
     ],
-    "version": "1.0",
+    "version": "1.0.0",
     "author": {
         "name": "u-prod laurent guyard",
         "url": "https://github.com/uprod/clockwork"
