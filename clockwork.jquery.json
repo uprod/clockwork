@@ -6,7 +6,7 @@
         "clock",
         "words"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "u-prod laurent guyard",
         "url": "https://github.com/uprod/clockwork"
@@ -24,7 +24,7 @@
             "url": "https://github.com/uprod/clockwork/blob/master/LICENSE"
         }
     ],
-    "bugs": "https://github.com/uprod/jquery-color/issues",
+    "bugs": "https://github.com/uprod/clockwork/issues",
     "homepage": "https://github.com/uprod/clockwork",
     "docs": "https://github.com/uprod/clockwork",
     "download": "http://code.jquery.com/#clockwork",
